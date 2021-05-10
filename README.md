@@ -29,7 +29,12 @@ Then Add an Application, in the file dialog select the downloaded QWC.
 Then click Yes, then select "When company file is open" and click continue.
 When it's done don't forget to specify the password that you defined in QuickImport.
 
-<video src="import.mp4" controls width="100%" muted></video>
+**Video tutorial:**
+
+<video width="100%" controls>
+  <source src="import.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### How to import transactions from Excel into QuickBooks Desktop
 
